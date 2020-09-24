@@ -1,0 +1,58 @@
+#col-1 {
+    position: relative;
+    width: 50%;
+    float: left;
+    height: 100%;
+    z-index: 1010101010
+  }
+  
+#col-2 {
+  position: relative;
+  width: 50%;
+  float: left;
+  height: 100%;
+  z-index: 1010101010
+}
+
+#comp-1 {
+  position: relative;
+  width: 100%;
+  float: left;
+  height: 50%;
+  background-color: #A9E2F3;
+  z-index: 1010101010;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+#comp-2 {
+  position: relative;
+  width: 100%;
+  float: left;
+  height: 50%;
+  background-color: #6cb2c7;
+  z-index: 1010101010;
+  font-family: "Lucida Console", Courier, monospace;
+}
+
+#list {
+  list-style-type: none;
+  font-family: "Lucida Console", Courier, monospace;
+  font-size: 14.5px;
+  color: #287a7a;
+  margin: auto;
+  width: 50%;
+}
+
+#hdr {
+  font-family: "Lucida Console", Courier, monospace;
+  margin: auto;
+  width: 50%;
+}
+
+#hdr2 {
+  position: relative;
+  padding-left: 70px;
+  font-family: "Lucida Console", Courier, monospace;
+  margin: auto;
+  width: 50%;
+}
