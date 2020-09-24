@@ -292,7 +292,6 @@ class Evolution extends React.Component {
         // Create the new population, pass it in the state
         if (this.state.population.isFinished())
             return;
-
         let newPop = this.state.population;
         newPop.naturalSelection();
         newPop.generate();
